@@ -1,5 +1,6 @@
 body{
 	background-color: white;
+    size-adjust: auto;
 }
 .header-logo{
     display: flex;
@@ -31,7 +32,6 @@ body{
     justify-content: center;
     flex-direction: row;
     padding: 2px;
-    width: 100%;
 }
 .nav-texts{
     align-items: center;
